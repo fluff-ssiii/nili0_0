@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: green;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+}
+form{
+    background-color: rgba(0, 0, 0, 0.881);
+    text-align: justify;
+    position: absolute;
+    left: 30pc;
+    right: 30pc;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    text-decoration: solid;
+    border-radius: 8px;
+}
+.Enter{
+    width: 27pc;
+    height: 30px;
+}
+input,select,textarea{
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+}
